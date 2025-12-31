@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Perfect Pinterest Garden",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-31T13:13:15.116453Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Perfect Pinterest Garden",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/01_Perfect_Pinterest_Garden_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Perfect Pinterest Garden",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/02_Perfect_Pinterest_Garden_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Perfect Pinterest Garden",
+      "artist": "Robinson, Porter",
+      "has_synced": false,
+      "path": "select/03_Perfect_Pinterest_Garden_Robinson,_Porter.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Perfect Pinterest Garden [Explicit]",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/04_Perfect_Pinterest_Garden_[Explicit]_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Perfect Pinterest Garden (Worlds Version)",
+      "artist": "Porter Robinson; TAZK",
+      "has_synced": true,
+      "path": "select/05_Perfect_Pinterest_Garden_(Worlds_Version)_Porter_Robinson;_TAZK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Perfect Pinterest Garden (edit)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/06_Perfect_Pinterest_Garden_(edit)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Perfect Pinterest Garden",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Perfect_Pinterest_Garden_Porter_Robinson.txt"
+    }
+  ]
+}
